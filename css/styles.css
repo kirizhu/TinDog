@@ -2,9 +2,7 @@ h1 {
   font-size: 2.8rem;
   line-height: 1.5;
 }
-h1,
-h2,
-h3 {
+h1, h2, h3 {
   font-family: 'Montserrat';
 }
 p {
@@ -13,17 +11,11 @@ p {
   font-weight: 100;
 }
 /* CONTAINERS */
-#features,
-#testimonials,
-#press,
-#pricing,
-#footer,
-#cta {
+#features, #testimonials, #press, #pricing, #footer, #cta {
   padding: 7% 15%;
   text-align: center;
 }
-#title,
-#cta {
+#title,#cta {
   background-color: #ff4c68;
   color: #fff;
 }
@@ -34,9 +26,7 @@ p {
 .navbar {
   padding-bottom: 4.5rem;
 }
-.navbar-brand,
-.nav-link,
-.download-button {
+.navbar-brand, .nav-link, .download-button {
   font-family: 'Ubuntu';
 }
 .navbar-brand {
@@ -76,8 +66,7 @@ p {
 .feature-card > i:hover {
   color: #ff4c68;
 }
-#testimonials,
-#press {
+#testimonials, #press {
   color: #fff;
   background-color: #ef8172;
   font-family: 'Montserrat';
